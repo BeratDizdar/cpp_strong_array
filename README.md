@@ -6,10 +6,10 @@ Designed to allow *chained transformations* and *expressive syntax* similar to a
 
 ---
 
-### ✨ Example
+### Example
 
 ```cpp
-#include "apl.hpp"
+#include "strong.hpp"
 using strong::array;
 
 int main() {
