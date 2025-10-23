@@ -1,0 +1,1 @@
+# cpp_strong_array
